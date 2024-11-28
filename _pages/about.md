@@ -8,6 +8,3 @@ redirect_from:
 ---
 
 Thanks for visiting my website!! I am a graduate student at washington University working in the Atmospheric Composition Analysis Group (ACAG) led by Dr. Randall Martin. 
-
-Inderjeet's personal websites
-======
