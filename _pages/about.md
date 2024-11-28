@@ -13,4 +13,4 @@ I am a PhD student at Washington University in St. Louis working in the [Atmosph
 \
 Prior joining the ACAG, I received my masters in Earth System Science and Technology from [Indian Institute of Technology Kharagpur (IIT Kharagpur)](https://www.iitkgp.ac.in/). I worked with [Dr. ANV Satayanarayanan](https://www.iitkgp.ac.in/department/CL/faculty/cl-anvsatya) in investigating the role of the turbulent coherent structures in transporting the heat and momentum fluxes in the atmospheric boundary layer using wavelet techniques as a part of my dissertation.\
 \
-Apart from my research interest, I like doing nothing.  
+Apart from my research interest, I like doing nothing (just sitting and relaxing).  
