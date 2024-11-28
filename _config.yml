@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Inderjeet Singh"
-  pronouns         : "HE/Him"  
+  pronouns         : "He/Him"  
   bio              : "PhD Student"
   location         : "St. Louis, MO, USA"
-  employer         : "Washington University in St. Louis"
+  employer         : "Washington University"
   uri              : # URL
   email            : "inderjeet.singh@wustl.edu" 
 
