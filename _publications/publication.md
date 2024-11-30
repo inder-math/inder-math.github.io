@@ -1,5 +1,4 @@
 ---
-title: "Peer Reviewed Papers"
 collection: publications
 permalink: /publications/
 ---
