@@ -5,6 +5,7 @@ permalink: /publications/
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=IVedA8gAAAAJ&hl=en&authuser=1).\
 \
 **Submitted or Under-Reviewed**\
+\
 4.	Inderjeet Singh, Randall V. Martin, Aaron van Donkelaar, Chi Li, Haihui Zhu, Dandan Zhang, Alexei Lyapustin. (2024) Effects of fire plume height on geophysical estimation of surface fine particulate matter from satellite aerosol optical depth during extreme wildfire events over North America. (Submitted to ES&T Air) [[Abstract]](https://github.com/user-attachments/assets/a257bd12-4cf6-4320-adba-f9857a7c0153)
 
 \
