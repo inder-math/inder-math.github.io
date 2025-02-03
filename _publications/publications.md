@@ -6,10 +6,10 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 \
 **Submitted or Under-Reviewed**\
 \
-4.	Inderjeet Singh, Randall V. Martin, Aaron van Donkelaar, Chi Li, Haihui Zhu, Dandan Zhang, Alexei Lyapustin. (2024) Effects of fire plume height on geophysical estimation of surface fine particulate matter from satellite aerosol optical depth during extreme wildfire events over North America. (Submitted to ES&T Air) [[Abstract]](https://github.com/user-attachments/assets/a257bd12-4cf6-4320-adba-f9857a7c0153)
-
 \
 **Peer-Reviewed**\
+\
+4.	Inderjeet Singh, Randall V. Martin, Aaron van Donkelaar, Chi Li, Haihui Zhu, Dandan Zhang, Alexei Lyapustin. (2024) Effects of fire plume height on geophysical estimation of surface fine particulate matter from satellite aerosol optical depth during extreme wildfire events over North America. (Submitted to ES&T Air) [[Abstract]](https://github.com/user-attachments/assets/a257bd12-4cf6-4320-adba-f9857a7c0153)
 \
 3). Zhu, H., Martin, R. V., van Donkelaar, A., Hammer, M. S., Li, C., Meng, J., Oxford, C. R., Liu, X., Li, Y., Zhang, D., **Singh, I.**, and Lyapustin, A.: Importance of aerosol composition and aerosol vertical profiles in global spatial variation in the relationship between PM2.5 and aerosol optical depth, Atmos. Chem. Phys., 24, 11565–11584, 2024. [[link]](https://doi.org/10.5194/acp-24-11565-2024)\
 \
