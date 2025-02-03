@@ -3,4 +3,4 @@ layout: archive
 permalink: /cv/
 author_profile: true
 ---
-<a href="files/Resume-Inderjeet.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="https://inder-math.github.io/files/Resume-Inderjeet.pdf" target="_blank">PDF.</a>
