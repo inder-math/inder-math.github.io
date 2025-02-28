@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my website!\
 \
-Recipient of Outstanding Student Presentation Award (OSPA), AGU 2024.
+Recipient of Outstanding Student Presentation Award (OSPA), AGU 2024.\
 \
 I am a PhD student at Washington University in St. Louis working in the [Atmospheric Composition Analysis Group (ACAG)](https://sites.wustl.edu/acag/) led by [Dr. Randall Martin](https://engineering.washu.edu/faculty/Randall-Martin.html). My research interests involve developing the analytical and physics-based approaches to understand the processes affecting atmospheric composition and air quality. My research focuses primarily on the efficient representation of aerosols in the chemical transport model [GEOS-Chem](https://geoschem.github.io/index.html) and UV-Vis trace gas retrieval models.\
 \
