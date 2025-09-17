@@ -6,7 +6,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 \
 **Peer-Reviewed**\
 \
-4). **Singh, I.**, Martin, R. V., van Donkelaar, A., Li, C., Zhang, Y., Zhu, H., Zhang, D., & Lyapustin, A. (2025). Effects of Fire Plume Height on the Geophysical Estimation of Surface Fine Particulate Matter from Satellite Aerosol Optical Depth during North American Wildfires. ACS ES&T Air. [[link]] (https://pubs.acs.org/doi/10.1021/acsestair.5c00035)\
+4). **Singh, I.**, Martin, R. V., van Donkelaar, A., Li, C., Zhang, Y., Zhu, H., Zhang, D., & Lyapustin, A. (2025). Effects of Fire Plume Height on the Geophysical Estimation of Surface Fine Particulate Matter from Satellite Aerosol Optical Depth during North American Wildfires. ACS ES&T Air. [[link]](https://pubs.acs.org/doi/10.1021/acsestair.5c00035)\
 \
 3). Zhu, H., Martin, R. V., van Donkelaar, A., Hammer, M. S., Li, C., Meng, J., Oxford, C. R., Liu, X., Li, Y., Zhang, D., **Singh, I.**, and Lyapustin, A.: Importance of aerosol composition and aerosol vertical profiles in global spatial variation in the relationship between PM2.5 and aerosol optical depth, Atmos. Chem. Phys., 24, 11565–11584, 2024. [[link]](https://doi.org/10.5194/acp-24-11565-2024)\
 \
